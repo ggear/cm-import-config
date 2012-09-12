@@ -19,6 +19,7 @@
 	<modules>
 		<module>cm-import-config-core</module>
 		<module>cm-import-config-client</module>
+		<module>cm-import-config-assembly</module>
 	</modules>
 
 </project>
